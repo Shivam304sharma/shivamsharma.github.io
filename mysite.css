@@ -1,0 +1,123 @@
+body{
+    color:rgb(37, 36, 36);
+    margin:0;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    background-color: antiquewhite;
+    
+}
+h1{
+    color: #1f0202;
+    margin: 50px auto; 
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+
+}
+h2{
+    font-weight: normal;
+    color: #a83f0e;
+    font-size: 24px;
+    padding-bottom: 14px;
+}
+h3{
+    color:brown;
+}
+p{
+    line-height: 1.5;
+    color: rgb(82, 79, 79);
+}
+hr{
+    border: dotted 6px black;
+    border-bottom: none;
+    width: 4%;
+    margin:20px auto;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 60px;
+    bottom: 200px;
+}
+.mountain{
+    width:35%;
+    height:35%;
+}
+.top-container{
+    background-color: azure;
+    position: relative;
+    padding-top: 10%;
+    height: 73vh;    
+}
+.intro{
+    margin:auto 20%;
+    text-align: left;
+}
+.skill-row{
+    width:50%;
+    margin: 60px auto;
+    text-align: left;
+    background-color: beige;
+
+}
+.skillsimg{
+    width:18%;
+    height: 38%;
+    float: left;
+    margin-right: 30px;
+
+}
+.skillsimg1{
+    width:18%;
+    height: 32%;
+    float: right;
+    margin-left:30px;
+}
+.dp{
+    width: 18%;
+    height:29%;
+    margin:35px auto;
+}
+.contact-me{
+    background-color: antiquewhite; 
+    padding-top: 5%;   
+}
+.contact-message{
+    width: 40%;
+    margin:5% auto;
+}
+.btn{
+    border:1px solid black;
+    text-decoration: none;
+    border-radius: 8px;
+    padding:2px;
+    margin-bottom: 9px;
+    font-size: 19px;
+    background-color: rgb(91, 91, 253);
+    color:black;
+    font-family:Verdana, sans-serif;
+}
+.btn:hover{
+    background-color: silver;
+    color:rgb(63, 62, 62);
+    
+}
+.bottom-container{
+    margin-top: 2%;
+    background-color: rgb(174, 228, 219);
+    height: 25vh;
+    margin-bottom: 0;
+
+}
+a{
+    margin:30px 20px;
+    text-decoration: none;
+    color: indigo;
+}
+a:hover{
+    color:gray;
+}
